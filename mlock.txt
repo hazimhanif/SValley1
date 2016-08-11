@@ -1,0 +1,2 @@
+call mlockall(3)
+detach
